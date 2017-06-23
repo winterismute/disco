@@ -28,7 +28,7 @@ token: 'MY_BOT_TOKEN_HERE'
 
 bot:
   plugins:
-		- plugins.tutorial
+		- plugins.tutorialplugin
 ```
 
 Now, within the python file (`tutorial.py`), lets write some code:
